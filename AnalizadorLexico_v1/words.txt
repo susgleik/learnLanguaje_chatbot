@@ -1,0 +1,23 @@
+
+Verbos = be, have, do, say, get, make, go, know, see, take, is, are
+
+Sustantivo = cat, dog, house, friend, car, book, city, family, money, time
+
+Articulo = the, a, an
+
+Adjetivo = happy, beautiful, big, red, good, old, small, green, young, long
+
+Preposition = in, on, under, between, near, above, with, through, from, to
+
+Conjución = and, but, or, so, if, because, while, although, since, as
+
+Pronombre = I, you, he, she, it, we, they, me, him, her
+
+Adverbio = quickly, often, very, always, really, too, here, now, almost, well
+
+Puntuacion = . , ! ? ; : - ' ( )
+
+
+
+
+
