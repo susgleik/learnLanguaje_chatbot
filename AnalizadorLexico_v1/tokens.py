@@ -3,14 +3,14 @@ from dataclasses import dataclass
 
 class TokenType(Enum):
     VERB = 1   #verbo x
-    NOUN = 2   #sustantivo  x
-    ARTICLE = 3  #articulo  x
-    ADJECTIVE = 4  #adjetivo x
-    PREPOSITION = 5 #preposicionx 
-    CONJUNCTION = 6  #conjucion x
-    PRONOUN = 7 #pronombres  x  
-    ADVERB = 8 #advervios  x
-    PUNCTUATION = 9 #puntuacion  x
+    NOUN = 2   #sustantivo  
+    ARTICLE = 3  #articulo  
+    ADJECTIVE = 4  #adjetivo 
+    PREPOSITION = 5 #preposicion 
+    CONJUNCTION = 6  #conjucion 
+    PRONOUN = 7 #pronombres    
+    ADVERB = 8 #advervios  
+    PUNCTUATION = 9 #puntuacion  
     UNKNOW = 10 
     
     def __str__(self) -> str:
